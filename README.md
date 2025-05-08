@@ -22,7 +22,7 @@ The project includes:
 1.  **Clone the Repository**:
     ```bash
     git clone https://github.com/danielyangdev/BUAD-313-Final-Project.git
-    cd BUAD-131-Final-Project
+    cd BUAD-313-Final-Project
     ```
 
 2.  **Create a Virtual Environment (Recommended)**:
